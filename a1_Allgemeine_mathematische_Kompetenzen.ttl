@@ -147,7 +147,7 @@ n1:b3f
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Mathematik Primar 2004 - Allgemeine mathematische Kompetenzen"@de;
+	dct:title "Bildungsstandards Mathematik Primar 2004 - Allgemeine Kompetenzen"@de;
 	dct:description """Allgemeine mathematische Kompetenzen zeigen sich in der lebendigen Auseinandersetzung mit Mathematik und auf die gleiche Weise, in der tätigen Auseinandersetzung, werden sie erworben. Die angestrebten Formen der Nutzung von Mathematik müssen daher auch regelmäßig genutzte Formen des Mathematiklernens sein. Von zentraler Bedeutung für eine erfolgreiche Nutzung und Aneignung von Mathematik sind vor allem die folgenden fünf allgemeinen mathematischen Kompetenzen.
 
 Diese lassen sich für Schülerinnen und Schüler am Ende der 4. Jahrgangsstufe wie folgt konkretisieren:"""@de;
