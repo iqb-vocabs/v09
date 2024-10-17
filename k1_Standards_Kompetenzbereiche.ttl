@@ -475,7 +475,7 @@ n1:d5z
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Mathematik Primar 2004 - Standards für inhaltsbezogene mathematische Kompetenzen"@de;
+	dct:title "Bildungsstandards Mathematik Primar 2004 - Inhaltsbezogene Kompetenzen"@de;
 	dct:description """Die Standards orientieren sich inhaltlich an mathematischen Leitideen, die für den gesamten Mathematikunterricht - für die Grundschule und für das weiterführende Lernen - von fundamentaler Bedeutung sind. 
 
 Für Schülerinnen und Schüler am Ende der 4. Jahrgangsstufe lassen sich aus diesen Leitideen folgende Standards für inhaltsbezogene mathematische Kompetenzen ableiten, die im Unterricht aufeinander bezogen und miteinander verknüpft werden:"""@de;

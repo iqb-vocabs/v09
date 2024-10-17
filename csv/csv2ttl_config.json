@@ -33,7 +33,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Standards für inhaltsbezogene mathematische Kompetenzen"
+            "value": "Inhaltsbezogene Kompetenzen"
           }
         ],
         "filenameSource": "k1_Standards_Kompetenzbereiche.csv",
@@ -50,7 +50,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+            "value": "Anforderungsbereiche"
           }
         ],
         "filenameSource": "n1_Anforderungsbereiche.csv",
